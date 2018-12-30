@@ -4,6 +4,8 @@ Created on Sun Dec 30 17:28:23 2018
 
 @author: Wei Hong
 Spyder (Python 3.6)
+
+Note that the online compiler didn't quite work for me and I wrote my script in Spyder's IDE.
 """
 
 WORDLIST_FILENAME = "word_list.txt"
